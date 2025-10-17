@@ -159,5 +159,5 @@ int main() {
     else
         printf("Super Poder: Empate! [%.2f = %.2f]\n", super_poder1, super_poder2);
 
-    return 0;
+    return 0; 
 }
